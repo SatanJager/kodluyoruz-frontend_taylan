@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="I am learning HTML - 101">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Kodluyoruz</h1>
+    
+<!--Açıklama satırıdır-->
+
+<!--Konu başlığı burada başlıyor-->
+<h1>HTML</h1>
+
+
+<h2>Deneme</h2>
+
+
+<h2>Listeler</h2>
+
+<!--
+Sıralı listeler -> 1, 2, 3, ordered list -> ol
+Sıralı olmayan listeler -> *, *, *, unordered list -> ul
+-> list item -> li
+
+-->
+
+<p>
+Ordered List
+<ol>
+    <li>liste öğesi 1</li>
+    <li>liste öğesi 2</li>
+    <li>liste öğesi 3</li>
+</ol>
+
+Unordered List
+<ul>
+    <li>liste öğesi 1</li>
+    <li>liste öğesi 2</li>
+    <li>liste öğesi 3</li>
+</ul>
+
+
+Ordered List
+<ol>
+    <li>liste öğesi 1</li>
+    <li>liste öğesi 2</li>
+    <li>liste öğesi 3
+        <ul>
+            <li>liste öğesi 1</li>
+            <li>liste öğesi 2</li>
+            <li>liste öğesi 3</li>
+        </ul>
+    </li>
+</ol>
+</p>
+
+<h2>Emmet / Zen Coding</h2>
+
+<!--
+etiket isimlerini direk verebiliyoruz
++ kardeş oge
+> içinde oge
+^ yukarı çık ve oge oluştur
+* carp -> p*3
+lorem -> lorem ipsum
+. -> class
+# -> id
+
+-->
+
+<!-- h1+h2-->
+<h1></h1>
+<h2></h2>
+
+<!-- h1+p+p+h2+p+p+p -->
+<h1></h1>
+<p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<p></p>
+
+<!-- h1+p*2+h2+p*4-->
+<h1></h1>
+<p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<!-- ul>li*3+li>p>lorem5 -->
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li>
+        <p>Lorem ipsum dolor sit amet.</p>
+    </li>
+</ul>
+
+<!-- ul>li*3^p>lorem10^h3>deneme -->
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, illum.</p>
+<h3>deneme</h3>
+
+<!-- ul>li*3>lorem1^^p>lorem10^h3>lorem1 -->
+<ul>
+    <li>Lorem.</li>
+    <li>Vitae.</li>
+    <li>Dicta!</li>
+</ul>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, possimus?</p>
+<h3>Lorem.</h3>
+
+<!-- . -> class -->
+
+<!-- h3.deneme>lorem1 -->
+<h3 class="deneme">Lorem.</h3>
+
+<!-- h3#idolussun>Lorem1 -->
+<h3 id="idolussun">Lorem.</h3>
+
+<!-- .tepki -->
+<div class="tepki"></div>
+
+<!-- ul>li.item$*4 -->
+<ul>
+    <li class="item1"></li>
+    <li class="item2"></li>
+    <li class="item3"></li>
+    <li class="item4"></li>
+</ul>
+
+<!-- div>p#item*6>lorem10 -->
+<div>
+    <p id="item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, placeat.</p>
+    <p id="item">Repudiandae dolorem porro, ipsam atque consectetur quam quibusdam quisquam eveniet?</p>
+    <p id="item">Illum accusamus ipsum reiciendis incidunt quod molestiae explicabo sed laudantium?</p>
+    <p id="item">Eaque earum quibusdam qui nobis, mollitia quo amet ullam illum?</p>
+    <p id="item">Incidunt obcaecati facere saepe voluptatum ratione in tenetur est rem?</p>
+    <p id="item">Quod ad, accusamus ratione cum omnis aliquid est dignissimos labore.</p>
+</div>
+
+</body>
+</html>
