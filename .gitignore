@@ -15,7 +15,6 @@
 # img
 *.img
 *.png
-images/
 
 # videos
 *.mp4
