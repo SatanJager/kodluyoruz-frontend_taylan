@@ -1,5 +1,10 @@
-# Deneme
+# Patika.dev Front-End Eğitim Çalışması
 
-## Alt Bilgi
+## Başlangıç Seviye Front-End-Patikası
 
-Educational purpose
+## Odevler
+- index.html --> Ödev 1
+- index_Odev2.html --> Ödev 2
+
+### Other Files
+- Educational purpose
