@@ -2,15 +2,16 @@ body {
     font-family: 'Oswald', sans-serif;
     margin: 0px;
     padding: 0px;
+    background-color: rgb(175, 162, 162);
 }
 
 nav {
-    background-color: #444343;
+    background-color: #4d4444;
     height: 60px;
 }
 
 header {
-    background-color: #1d1d1d;
+    background-color: #312828;
     padding: 10px;
     text-align: center;
     font-size: 40px;
@@ -46,4 +47,27 @@ header {
 
 .login img {
      margin-top: 14px;
+}
+
+.container-content {
+    margin: 20px;
+}
+
+table img{
+    height: 100px;
+    width: 100px;
+}
+
+table th{
+    font-size: 16px;
+}
+
+table td{
+    font-size: 14px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-style: italic;
+    color: #442a2a;
 }
