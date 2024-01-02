@@ -1,0 +1,22 @@
+/* Bu bir açıklama CTRL + Ö --> VS CODE */
+
+/**** LAYOUT ****/
+body {
+    background-color: aliceblue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: pink; 
+    font-size: 28px;
+    text-transform: uppercase;
+}
+p {
+    color: green;
+    font-size: 20px;
+}
+
+ul {
+    color: blue;
+}

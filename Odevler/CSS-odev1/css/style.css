@@ -1,0 +1,49 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #444343;
+    height: 60px;
+}
+
+header {
+    background-color: #1d1d1d;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu li {
+    float: left;
+}
+
+.login li {
+    float: right;
+}
+
+.menu li a , .login li a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    height: 60px;
+    line-height: 60px;
+    padding: 0px 30px;
+}
+
+.menu li a:hover , .login li a:hover{
+    background-color: #595959;
+}
+
+.login img {
+     margin-top: 14px;
+}
