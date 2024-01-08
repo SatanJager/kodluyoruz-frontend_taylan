@@ -36,3 +36,35 @@ fs-30 {
     font-size: 40px;
     color: blue;
 }
+
+/* CSS Selectors */
+
+.color-blue .fw-bold {
+    color: blue;
+    font-weight: bold;
+}
+
+/* ul > li:first-child {
+    color: green;
+
+}
+
+li:last-child {
+    color: aqua;
+} */
+
+/* li:nth-child(1) {
+    background-color: red;
+}
+
+li:nth-child(odd){
+    color: blue;
+}
+
+li:nth-child(even) {
+    background-color: green;
+} */
+
+li:nth-child(2n-1) {
+    color: purple;
+}
