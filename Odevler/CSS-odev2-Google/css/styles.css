@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0 7%;
+}
+
+footer {
+    font-size: 0.8rem;
+    
+}
+
+.temizle {
+    clear: both;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+}
+
+#search-bar {
+    background-color: #EEEEEE;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    border: 2px solid white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-flow: row wrap;  şeklinde de yazılabilinir*/
+    /* align-items: baseline; */
+}
+
+.content {
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px;
+    margin: 0;
+}
+
+.grow1{
+    background-color: #70CCC2;
+    flex-grow: 1;
+}
+
+.grow2{
+    background-color: #62B3AA;
+    flex-grow: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
