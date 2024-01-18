@@ -1,0 +1,59 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #4d4444;
+    height: 60px;
+}
+
+.logo {
+    margin: 0px;
+    padding: 15px;
+    text-align: center;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.login {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu li {
+    float: left;
+}
+
+.login li {
+    float: right;
+}
+
+.menu li a, .login li a{
+    display: block;
+    color: #E9ECEF;
+    text-decoration: none;
+    height: 60px;
+    line-height: 60px;
+    padding: 0px 30px;
+}
+
+.menu li a:hover , .login li a:hover{
+    background-color: #595959;
+}
+
+.login img {
+     width: 60px;
+     height: 60px;
+}
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
