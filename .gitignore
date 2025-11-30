@@ -13,12 +13,19 @@
 *.vsix
 
 # img
-*.img
+# *.img
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# img/
+
 
 # videos
 *.mp4
 
-# packages
+# packages  --> yazılım dilinin dosyaları
+
 
 # log
 *.log
