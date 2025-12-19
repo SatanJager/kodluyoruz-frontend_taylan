@@ -13,15 +13,19 @@
 *.vsix
 
 # img
-*.img
-*.png
-*.jpg
-*.jpeg
-*.gif
-img/
+
+#*.img
+#*.png
+#*.jpg
+#*.jpeg
+#*.gif
+#img/
+
 
 #FontAwesome
 fontawesome-free-7.1.0-web/
+#*.svg
+LICENSE.txt
 
 # videos
 *.mp4
