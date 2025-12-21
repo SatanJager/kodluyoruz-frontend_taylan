@@ -2,7 +2,7 @@
 
 ## Başlangıç Seviye Front-End-Patikası
 
-## Odevler
+## Odevler - Homeworks
 
 ### HTML
 - index.html --> Ödev 1
@@ -16,11 +16,12 @@
 
 ### BOOTSRAP
 - /BOOTSRAP-odev1 --> Ödev 1
+- /BOOTSTRAP-odev2 --> Ödev 2 Instagram Clone
 
 ## Other Files
-Educational purpose
+Educational purpose work material
 - HTML-Calisma
 - HTML-BolumSonu
 - CSS-Calisma
-- Bootstrap
-- Bootstrap 2025
+- Bootstrap-Calisma
+- Bootstrap 2025-Calisma 
