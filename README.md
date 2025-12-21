@@ -14,14 +14,33 @@
 - /CSS-odev2-Google --> Ödev 2
 - /CSS-odev3-GoogleNew --> Ödev 3
 
-### BOOTSRAP
+### BOOTSTRAP
 - /BOOTSRAP-odev1 --> Ödev 1
 - /BOOTSTRAP-odev2 --> Ödev 2 Instagram Clone
 
-## Other Files
-Educational purpose work material
+## Other Files - Educational purpose work material
 - HTML-Calisma
 - HTML-BolumSonu
 - CSS-Calisma
 - Bootstrap-Calisma
 - Bootstrap 2025-Calisma 
+
+## CSS Frameworks/Libraries
+- [Bootstrap](https://getbootstrap.com/)
+- [Foundation](https://get.foundation/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Bulma](https://bulma.io/)
+- [UIkit](https://getuikit.com/)
+- [Pure.css](https://pure-css.github.io/)
+- [Skeleton](http://getskeleton.com/)
+- [Miligram](https://milligram.io/)
+- [Tailwindcss](https://tailwindcss.com/)
+
+## Tools
+- [Lorem Picsum](https://picsum.photos/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+
+# Blogs/Forums
+- [Stack Overflow](https://stackoverflow.com/questions)
+- [Medium](https://medium.com/)
