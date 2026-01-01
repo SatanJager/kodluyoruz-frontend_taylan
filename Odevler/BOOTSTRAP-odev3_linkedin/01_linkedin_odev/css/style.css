@@ -1,0 +1,208 @@
+.body {
+  background-color: #f3f2ef;
+  padding-top: 80px;
+}
+
+
+/** NAVBAR **/
+.navbarbg {
+  min-height: 50px;
+  height: auto;
+  text-align: center;
+  border-bottom: 1px solid  #8c8c8c33;
+}
+
+.navbar-brand {
+  margin-left: 5%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.navbar {
+  position: relative;
+}
+
+.navbar-collapse {
+  background-color: #f8f9fa; /* bg-light */
+  padding: 2px 4px;
+  width: auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.navbar-toggler {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.navbar-collapse .navbar-nav {
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+}
+
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8;
+  border: 0;
+}
+
+input.searche::placeholder {
+  font-size: 14px;
+  color: gray;
+  background-image: url(../assets/search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 9%;
+  padding-left: 20px;
+  background-position: 1px;
+}
+
+.menutext {
+  font-size: 11px; /* 13 px di */
+  line-height: 1.1; /* yoktu */
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 3px;
+  font-weight: lighter;
+}
+
+.menutext:hover {
+  color: black;
+}
+
+button.mediatext {
+  color: #5f5f5f;
+}
+
+button.mediatext:hover {
+  color: #5f5f5f;
+}
+
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+}
+
+i {
+  color: gray;
+  margin-top: 8px;
+}
+i:hover {
+  color: black;
+}
+
+input.content {
+  border-radius: 40px;
+  height: 45px;
+}
+input.content::placeholder {
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../assets/edit-regular.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding-left: 25px;
+}
+
+div.card {
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #5f5f5f;
+}
+
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+}
+
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+}
+
+button.ref {
+  color: white;
+}
+
+button.ref:hover {
+  color: #5f5f5f;
+}
+
+.postphoto {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  float: left
+}
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.posttext2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 11px;
+  color: #474747;
+  margin-left: 8px;
+  margin-top: -4px;
+}
+
+.postheader {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.contenttext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.liketext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+  color: #474747;
+}
+
+.mesajlasma-header {
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  width: 300px;
+  height: 50px;
+  padding: 0 15px;
+  border-radius: 6px 6px 0 0;
+  /* background-color: #ffffff; */ /* bg-white silirse kullan */
+  /* z-index: 1050; */             /* içerik üstünde kalsın diye */
+}
