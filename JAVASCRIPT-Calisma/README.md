@@ -64,19 +64,29 @@
 (https://eloquentjavascript.net/14_dom.html)  
 (https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)  
 (https://dom.spec.whatwg.org/#DOMTS)  
-(https://www.w3schools.com/js/js_htmldom.asp)
+(https://www.w3schools.com/js/js_htmldom.asp)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 <br>
 
 * DOM içerisinden Etiket ve ID ile Öğe Seçimi  
-()  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Selection_and_traversal_on_the_DOM_tree)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)  
+(https://attacomsian.com/blog/getting-dom-elements-javascript)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)  
+(https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php)
 <br>
 
 * Prompt ile Kullanıcıdan Bilgi Almak  
-()  
+(http://www.erelcolak.com/javascript-temelleri-prompt-ile-kullanicidan-bilgi-almak/)  
+(https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)  
 <br>
 
 * Liste içerisindeki Öğeye Erişmek ve Yeni Öğe Eklemek  
-()  
+(https://www.w3schools.com/js/js_htmldom.asp)  
+(https://www.webcebir.com/170-javascript-dom-erisim-yontemleri-dersi.html)  
+(https://www.yazilimkodlama.com/javascript/javascript-ile-listeye-ogeler-ekleyin/)
 <br>
 
 * DOM'a CSS Class Bilgisi Eklemek veya Çıkarmak  
