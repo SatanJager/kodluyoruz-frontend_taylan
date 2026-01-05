@@ -4,17 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DOM ile Çalışmak - Patika.dev Front-End 101 Java Script</title>
+
+    <style>
+        .text-primary {
+            color: blue;
+        }
+    </style>
+    <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
     <h1 id="greeting">DOM ile Çalışmak - Patika.dev Front-End 101 Java Script</h1>
 
-<p>09 islemleri</p>
+<h2>09 islemleri</h2>
     <h3><a href="tikla.html" target="_blank">Tıkla - Hello World</a></h3> 
 
     <p id="domain">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, repudiandae!</p> 
 <br>
 
-<p>10 işlemleri</p>
+<!-- <h2>10 işlemleri</h2>
 
 <h3 id="title">Lorem ipsum dolor sit amet.</h3>
 
@@ -34,15 +42,71 @@
     <input type="text" name="email"> 
     <input type="tel" name="phone"> 
     <input type="date" name="date-of-birth"> 
-</form>  <!-- 10 -->
-<br>
+</form>  -->
+<br> 
 
-<p>11 işlemleri</p>
+<h2>11 işlemleri</h2>
 <h3><a href="mesaj.html" target="_blank">Mesajını buraya yaz</a></h3> 
 
+<br>
 
+<!-- <h2>12 işlemleri - Liste içerisindeki son elemana ulaşmak veya yeni eleman eklemek </h2>
 
+<ul id="list12">
+    <li>Lorem, ipsum dolor.</li>
+    <li>Porro, pariatur quam.</li>
+    <li>Dolorem, illum at?</li>
+</ul>
 
+<ul class="nameList">
+  <li id="walterwhite">Walter White</li>
+  <li class="alternate">Jesse Pinkman</li>
+  <li>Skyler White</li>
+  <li class="alternate">Hank Schrader</li>
+  <li>Gustavo Fring</li>
+</ul>
+
+<br><br>
+
+<input type="text" id="veri">
+<button id="ekle">Listeye Öğe Ekle</button> -->
+
+<br>
+<h2>13 işlemleri - DOM'a CSS Class Bilgisi Eklemek veya Çıkarmak</h2>
+
+ <div id="add"> </div>
+  <p id="metodNames">* Add()</p>
+  <p id="pAdd"></p>
+
+  <!-- Remove -->
+  <p id="metodNames">* Remove()</p>
+  <p id="pRemove"> </p>
+  <!-- Item -->
+  <p id="metodNames">* Item()</p>
+  <p id="pItem"></p>
+  <!-- Contains -->
+  <p id="metodNames">* Contains()</p>
+  <p id="pContainsTrue"> </p>
+  <p id="pContainsFalse"> </p>
+  <!-- Replace -->
+  <p id="metodNames">* Replace()</p>
+  <p id="pReplace"> </p>
+  <!-- Toggle -->
+  <p id="metodNames">* Toggle()</p>
+  <p id="pToggle">Toggle ile renk değiştirelim</p>
+  <button id="toggleButton">Toggle</button>
+  <!-- Length -->
+  <p id="metodNames">* length</p>
+  length ile kaç tane class var bakalım.
+  <p id="length"></p>
+
+    <p id="renkliYazi">Bu yazının rengi değişecek. ali, ayse, mehmet</p>
+    <input type="text" id="veriClass" placeholder="Class ismi yaz">
+    <button id="addButton">Class Ekleme</button>
+    <p id="bunuYakala" class="text-primary">
+        Ben de text-primary class'ı var.
+        <button id="acil">Acil</button>
+    </p>
 
 
 <!-- 
@@ -56,7 +120,10 @@
 <!-- <script src="js/09-dom-nedir.js"></script> -->
 <!-- <script src="js/10-dom-icinden-etiket.js"></script> -->
 <!-- <script src="js/11-prompt.js"></script> -->
-<script src="js/12-liste.js"></script>
+<!-- <script src="js/12-liste.js"></script> -->
+ <script src="js/13-css-bilgi.js"></script>
+
+
 
 
 </body>
