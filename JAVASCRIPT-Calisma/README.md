@@ -5,6 +5,11 @@
 * (https://nodejs.org/)
 * (https://www.w3schools.com/)
 
+## HackerRank
+
+* HackerRank - 10 Days of Javascript
+* Hackerrank - 30 Days of Code - Javascript
+
 ## KONULAR
 
 #### Kurulum Süreçleri
@@ -99,3 +104,31 @@
 (https://www.btdersleri.com/ders/JavaScript-Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-ve-Mant%C4%B1ksal-Operat%C3%B6rler)  
 (https://www.w3schools.com/js/js_comparisons.asp)  
 <br>
+
+* Koşul Yapısı Kullanımı (if / else)  
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)  
+<br>
+
+* Çoklu Koşul Yapısı Kullanımı  
+(https://eloquentjavascript.net/1st_edition/appendix1.html)  
+(https://medium.com/front-end-weekly/switch-case-if-else-or-a-lookup-map-a-study-case-de1c801d944)
+(https://necatiergin2019.medium.com/switch-deyimi-3133d90074a9)  
+<br>
+
+* Ternary Operatör ( Koşul ? Doğruysa : Yanlışsa) ile If Kullanımı  
+()  
+()  
+<br>
+
+* Koşullarla Çalışmak - Bölüm Sonu Egzersizi  
+()  
+()  
+<br>
+
+#### Fonksiyonlar
+
+* 
+
+*
+
+*

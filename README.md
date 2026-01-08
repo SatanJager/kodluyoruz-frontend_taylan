@@ -17,6 +17,7 @@
 ### BOOTSTRAP
 - /BOOTSRAP-odev1 --> Ödev 1
 - /BOOTSTRAP-odev2 --> Ödev 2 Instagram Clone
+- /BOOTSTRAP-odev3_linkedin --> Ödev 3 LinkedIn Clone
 
 ## Other Files - Educational purpose work material
 - HTML-Calisma
@@ -24,6 +25,7 @@
 - CSS-Calisma
 - Bootstrap-Calisma
 - Bootstrap 2025-Calisma 
+- JAVASCRIPT-Calisma
 
 ## CSS Frameworks/Libraries
 - [Bootstrap](https://getbootstrap.com/)
