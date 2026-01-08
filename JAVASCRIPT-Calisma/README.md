@@ -116,8 +116,8 @@
 <br>
 
 * Ternary Operatör ( Koşul ? Doğruysa : Yanlışsa) ile If Kullanımı  
-()  
-()  
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)  
+(https://muratdogan.medium.com/javascript-hap-yaz%C4%B1s%C4%B1-ternary-operator-2788782189fb)  
 <br>
 
 * Koşullarla Çalışmak - Bölüm Sonu Egzersizi  
