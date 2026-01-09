@@ -32,14 +32,15 @@ const FROWN = `
 </svg>
 `
 
-let examGrade = prompt("Puani Girin")
+let examGrade = prompt("Puan Sistemine Hoşgeldiniz. Aldığınız Puani Girin:")
 let textInfo;
 let info = document.querySelector("#info")
 
 if (examGrade >= 0 && examGrade <= 100) {
     // tum if yapilari buraya gelsin
     textInfo = SMILE
-    info.classList.add('text-primary')
+    gradeData.classList.add('text-primary')
+    
     if (examGrade >= 90) {
         textInfo += " AA"
     } else if (examGrade >= 85) {
@@ -58,12 +59,11 @@ if (examGrade >= 0 && examGrade <= 100) {
         textInfo += " FD"
     } else if (examGrade < 50) {
         textInfo = `${FROWN} FF`
-        info.classList.remove('text-primary')
-        info.classList.add('text-danger')
+        gradeData.classList.remove('text-primary')
+        gradeData.classList.add('text-danger')
     }
 } else {
     textInfo = "Bilgiler Dogru Degil"
 }
 
-
-info.innerHTML = `${textInfo} -> ${examGrade}`
+gradeData.innerHTML = `${textInfo} -> ${examGrade}`
