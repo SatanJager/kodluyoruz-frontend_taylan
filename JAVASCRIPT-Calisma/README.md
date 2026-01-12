@@ -143,15 +143,10 @@
 <br>
 
 * DOM Etkinlikleriyle Çalışmak  
-()  
-<br>
-
-* Fonksiyonlar - Bölüm Sonu Egzersizi  
-()  
-<br>
-* Ödev 1  
-()
-<br>
+(https://javascript.info/)  
+(https://eloquentjavascript.net/)
+(https://www.w3schools.com/jsref/dom_obj_event.asp)
+(https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)  
 
 ####localStorage
 

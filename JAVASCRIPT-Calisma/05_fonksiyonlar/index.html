@@ -17,6 +17,22 @@
         body {
             padding: 10px;
         }
+
+        #yellow,
+        #purple {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            margin: 15px;
+        }
+
+        #yellow {
+            background-color: yellow;
+        }
+
+        #purple {
+            background-color: rebeccaPurple;
+        }
     </style>
     
 </head>
@@ -24,16 +40,77 @@
     <h1>Fonksiyonlar - Patika.dev Front-End 101 Java Script</h1>
     <br>
 
-        <h2>19 İşlemleri - Fonksiyonlar</h2>
-        <br>
-        <h2 id="info">20 işlemler - Parametreler</h2>
-        <h3 id="greeting">Kodluyoruz - Front-End 101</h3>
-        <br>
-        <h2>21 İşlemleri - Fat Arrow Funksiyonlar</h2>
-        <br>
+    <h2>19 İşlemleri - Fonksiyonlar</h2>
+    <br>
+    <h2 id="info">20 işlemler - Parametreler</h2>
+    <h3 id="greeting">Kodluyoruz - Front-End 101</h3>
+    <br>
+    <h2>21 İşlemleri - Fat Arrow Funksiyonlar</h2>
+    <br>
+    <h2>22 İşlemleri - DOM Etkinlikleriyle Çalışmak</h2>
+    <p id="greeting2">BURAYA TIKLA</p>
+    <p id="fareGel">Buraya fare geldiğinde</p>
+    <br>
+    <p><a href="form.html" target="_blank">Form'a Git</a></p>
+    <h4>Alıştırma 1</h4>
+    <!-- Alıştırma 1-->
+    <form action="#" id="selectColor">
+        <label for="color">Choose a color</label>
+        <select name="colors" id="select">
+            <option value="red">RED</option>
+            <option value="blue">BLUE</option>
+            <option value="purple">PURPLE</option>
+            <option value="orange">ORANGE</option>
+            <option value="pink">PINK</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
 
+    <h4>Alıştırma 2</h4>
 
+    <div class="container">
+        <div>
+            <p id="text">SUBMIT FORM </p>
+        </div>
+        <form action="/action_page.php" class="inputText">
+            <label for="fname" id="l1">First name:</label><br>
+            <input type="text" id="fname" name="fname" value="John"> <br>
+            <label for="lname" id="l2">Last name:</label><br>
+            <input type="text" id="lname" name="lname" value="Doe" id="label2"><br><br>
+        </form>
+        <button type="button" id="button">Clicked me </button>
+        <form action="#" id="selectColor">
+            <label for="color">Choose a color</label>
+            <select name="colors" id="select">
+                <option value="red">RED</option>
+                <option value="blue">BLUE</option>
+                <option value="purple">PURPLE</option>
+                <option value="orange">ORANGE</option>
+                <option value="pink">PINK</option>
+            </select>
+            <br><br>
+        </form>
+    </div>
+    </div>
 
+    <h4>Alıştırma 3</h4>
+    <div id="text">
+        <div>
+            <input id="input" placeholder="write">
+            <div id="output" style="background-color:orange ;width:60%"> çıktı </div>
+        </div>
+    </div>
+
+    <h4>Alıştırma 4</h4>
+    <div id="yellow"></div>
+    <div id="purple"></div> 
+
+    <br>
+    <h2>23 İşlemleri - Fonksiyonlar Bölüm Sonu</h2>
+    <h3 id="counter"></h3>
+    <button id="increase">Arttır</button>
+    <button id="decrease">Azalt</button>
 
 
 
@@ -47,7 +124,9 @@
 <!-- Script dosyası aşağıdadır-->    
 <!-- <script src="js/19-fonksiyon.js"></script> -->
 <!-- <script src="js/20-parametre.js"></script> -->
-<script src="js/21-arrow-func.js"></script>
+<!-- <script src="js/21-arrow-func.js"></script> -->
+<!-- <script src="js/22-dom-etkinlikleri.js"></script> --> 
+ <script src="js/23-bolum-sonu.js"></script>
 
 
 
