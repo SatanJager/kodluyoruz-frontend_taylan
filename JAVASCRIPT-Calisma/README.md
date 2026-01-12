@@ -121,14 +121,50 @@
 <br>
 
 * Koşullarla Çalışmak - Bölüm Sonu Egzersizi  
-()  
-()  
 <br>
 
 #### Fonksiyonlar
 
-* 
+* Fonksiyon Nedir? Neden Kullanırız?  
+(https://javascript.info/function-basics)  
+(https://javascript.info/closure#nested-functions)  
+(https://javascript.info/recursion)  
+(https://javascript.info/closure#nested-functions)
+<br>
+
+* Fonsiyona Parametre (params) ve Geridönüş (return) Eklemek  
+(https://www.w3schools.com/js/js_functions.asp)  
+<br>
+
+* Fat Arrow () => Fonksiyonu Kullanımı  
+(https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/)  
+(https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)  
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+<br>
+
+* DOM Etkinlikleriyle Çalışmak  
+()  
+<br>
+
+* Fonksiyonlar - Bölüm Sonu Egzersizi  
+()  
+<br>
+* Ödev 1  
+()
+<br>
+
+####localStorage
 
 *
+()  
+<br>
+
+*
+()
+<br>
+
+*
+()  
+<br>
 
 *
