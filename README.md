@@ -19,6 +19,9 @@
 - /BOOTSTRAP-odev2 --> Ödev 2 Instagram Clone
 - /BOOTSTRAP-odev3_linkedin --> Ödev 3 LinkedIn Clone
 
+### JAVASCRIPT
+- JavaScript-odev1 --> Ödev 1
+
 ## Other Files - Educational purpose work material
 - HTML-Calisma
 - HTML-BolumSonu

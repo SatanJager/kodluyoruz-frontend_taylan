@@ -17,3 +17,17 @@ let items = [1,2,3, user]
 localStorage.setItem('newItems', JSON.stringify(items))
 
 let newItems = JSON.parse( localStorage.getItem('newItem') ) //JSON Parse ile localStorage icindeki bilginin cekilip kullanilmasi..
+
+
+//1. Alıştırma
+
+var movies = ["Kasaba", "Kış uykusu","Bir Zamanlar Anadolu"];
+
+localStorage.setItem("Nuri Bilge Ceylan", movies);
+//Yanlış:
+// localStorage.getItem("Nuri Bilge Ceylan", movies);
+// localStorage.setItem("Nuri Bilge Ceylan", JSON.stringfy(movies));
+// localStorage.getItem("Nuri Bilge Ceylan" , JSON.stringfy(movies));
+
+//Alıştırma
+
