@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika.dev Front-End 101 Java Script</title>
+
+    <!-- <style>
+        .text-primary {
+            color: blue
+        }
+
+        .text-danger {
+            color: red
+        }
+
+        body {
+            padding: 10px;
+        }
+
+        #yellow,
+        #purple {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            margin: 15px;
+        }
+
+        #yellow {
+            background-color: yellow;
+        }
+
+        #purple {
+            background-color: rebeccaPurple;
+        }
+    </style> -->
+
+    <!-- Bootstap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <h1>Form - Patika.dev Front-End 101 Java Script</h1>
+    <br>
+    <h2>27 İşlemleri - Form ve Form Submit Yöntemleri</h2>
+    
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm-8 offset-sm-2">
+                <form id="userForm">
+                    <!-- Default: method="GET" ama daha güvenlisi method="POST"-->
+                    <input type="number" name="score" id="score">
+                    <button type="submit" class="btn btn-success">Gönder</button>
+                    <button type="reset" class="btn btn-danger">Reset</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br>
+    <h3><a href="form.html" target="_blank">Form deneme</a></h3>
+
+    <!-- <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm-8 offset-sm-2">
+                <h3>Alıştırma 1</h3>
+                <form onsubmit="handleSubmit(e)" method="POST">
+                    <input type="text" name="username" placeholder="Kullanıcı adınızı giriniz" onchange="handleChange(event)" />
+                    <input type="password" name="password" placeholder="Şifrenizi giriniz." onchange="handleChange(event)" />
+                    <button type="submit" class="btn btn-success">Giriş</button>
+                </form>
+            </div>
+        </div>
+    </div> -->
+    <br>
+    <h2>28 İşlemleri - Input içerisinden Değer Almak</h2>
+    <h3><a href="form2.html" target="_blank">Form2 deneme</a></h3>
+    <h3><a href="form3.html" target="_blank">Form3 deneme</a></h3>
+    <br>
+    <h2>29 İşlemleri - Formlarla Çalışmak - Bölüm Sonu Egzersizi</h2>
+    <h3><a href="bolumsonu.html" target="_blank">Bolum Sonu Egzersizi</a></h3>
+
+
+
+
+
+
+    <!-- 
+        Not: 
+        Her Çalışma İçin Ayrı Ayrı JS Dosyaları Oluşturuldu
+        Dosya Üzerinde Çalışmadan Önce Lütfen Açıklama Satırında Olup Olmadığını Kontrol Edin
+    -->
+    <!-- Bootstrap JS Bundle-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous">
+    </script>
+
+    <!-- Script dosyası aşağıdadır-->
+    <!-- <script src="js/27-form-submit.js"></script> -->
+    <script src="js/28-form-deger.js"></script>
+
+
+</body>
+
+</html>

@@ -160,28 +160,43 @@
 <br>
 
 * LocalStorage içerisine Farklı Türde Veriler Eklemek
-()
 <br>
 
 * localStorage - Bölüm Sonu Egzersizi
-()  
 <br>
 
 #### Form
 
-* 
-()  
+* Form ve Form Submit Yönetimi
+(https://kod5.org/html5-form-nesneleri-ve-kullanimi-1/)  
+(https://www.w3schools.com/html/html_forms.asp)  
+(https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)  
+(https://www.tutorialspoint.com/html/html_forms.htm)
 <br>
 
-* 
-()
+* Input içerisinden Değer Almak
+(https://www.w3schools.com/)  
+(https://www.bitdegree.org/learn/best-code-editor/javascript-input-example-2) --> Example
 <br>
 
-* 
-()  
+* Formlarla Çalışmak - Bölüm Sonu Egzersizi
 <br>
 
 #### Dizi(Array) Veri Tipiyle Çalışmak
+
+* Dizi (Array) Oluşturmak ve Dizi İçindeki Elemanlara Ulaşmak
+()  
+<br>
+
+* Diziye Yeni Eleman Eklemek, Çıkartmak ve Güncellemek
+()
+<br>
+
+* Array (Dizi) Metotlarının Kullanımı ve Array içinde Array Oluşturma
+()  
+<br>
+
+#### Döngüler
 
 * 
 ()  
