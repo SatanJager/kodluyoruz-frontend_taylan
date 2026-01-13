@@ -31,6 +31,10 @@ LICENSE.txt
 # videos
 *.mp4
 
+# spreadsheets
+*.docx
+*.xlsx
+
 # packages  --> yazılım dilinin dosyaları
 
 

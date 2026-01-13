@@ -147,19 +147,50 @@
 (https://eloquentjavascript.net/)
 (https://www.w3schools.com/jsref/dom_obj_event.asp)
 (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)  
-
-####localStorage
-
-*
-()  
+<br>
+* Fonksiyonlar - Bölüm Sonu Egzersizi
+<br>
+* Ödev 1
 <br>
 
-*
+#### LocalStorage
+
+* LocalStorage ile Veri Eklemek, Düzenlemek ve Silmek  
+(https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)  
+<br>
+
+* LocalStorage içerisine Farklı Türde Veriler Eklemek
 ()
 <br>
 
-*
+* localStorage - Bölüm Sonu Egzersizi
 ()  
 <br>
 
-*
+#### Form
+
+* 
+()  
+<br>
+
+* 
+()
+<br>
+
+* 
+()  
+<br>
+
+#### Dizi(Array) Veri Tipiyle Çalışmak
+
+* 
+()  
+<br>
+
+* 
+()
+<br>
+
+* 
+()  
+<br>

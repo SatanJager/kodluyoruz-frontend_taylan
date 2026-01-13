@@ -20,9 +20,6 @@ function clickEvent() {
 } else {
     counterDOM.innerHTML = counter -= 1
 } */
-
-
-
 }
 
 
